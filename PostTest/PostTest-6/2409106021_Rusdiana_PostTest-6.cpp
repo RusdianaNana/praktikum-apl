@@ -49,7 +49,7 @@ int main() {
 
 void initSystem() {
     // Buat akun admin default
-    users[jumlahUser++] = {"admin", "admin123", true};
+    users[jumlahUser++] = {"Rusdiana", "2409106021", true};
 }
 
 // Implementasi fungsi-fungsi sorting
